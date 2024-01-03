@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Who is the Fantasy Football GOAT? Debuted in 2018 we are now 6 season deep! Here are some of the past winners!</p>
+  <p>Who is the Fantasy Football GOAT? This past season we celebrated our 6th straight season! Here are some of the past winners!</p>
   <p>2018 - FSUALLDAY - Troy</p>
   <p>2019 - Judge Clark-Daniels - Evan</p>
   <p>2020 - A/D.J. Problem - Mike</p>
